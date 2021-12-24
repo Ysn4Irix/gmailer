@@ -1,3 +1,11 @@
+/**
+ * @author Ysn4Irix
+ * @email ysn4irix@gmail.com
+ * @create date 24-12-2021
+ * @modify date 24-12-2021
+ * @desc [Mailer Controller]
+ */
+
 const nodemailer = require("nodemailer");
 const { google } = require("googleapis");
 const ejs = require("ejs");

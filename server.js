@@ -1,3 +1,11 @@
+/**
+ * @author Ysn4Irix
+ * @email ysn4irix@gmail.com
+ * @create date 24-12-2021
+ * @modify date 24-12-2021
+ * @desc [Entry Point]
+ */
+
 require("dotenv").config();
 const express = require("express");
 const logger = require("morgan");
