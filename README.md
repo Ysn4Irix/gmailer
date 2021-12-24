@@ -1,5 +1,5 @@
 <p align="center">
- <img width="160px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1640357671/nomxnr1ubetauyre96j2.svg" align="center" alt="gmail" />
+ <img width="350px" src="https://res.cloudinary.com/ydevcloud/image/upload/v1640357671/nomxnr1ubetauyre96j2.svg" align="center" alt="gmail" />
 </p>
 
 <h1 align="center">G.Mailer</h1>
@@ -41,7 +41,7 @@ GET /api/v1/generateKey
 Send email to client
 
 ```endpoint
-GET localhost:6699/api/v1/send/:email/:template/:apikey
+GET /api/v1/send/:email/:template/:apikey
 ```
 
 Replacing Parameters
