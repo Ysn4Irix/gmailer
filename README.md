@@ -46,9 +46,9 @@ GET /api/v1/send/:email/:template/:apikey
 
 Replacing Parameters
 
-Email : receiver email
-template : template to be sending with html format (Located in templates Folder)
-apikey : APIKEY generated erlier
+Email : receiver email <br />
+template : template to be sending with html format (Located in templates Folder) <br />
+apikey : APIKEY generated erlier <br />
 
 #### Example response
 
